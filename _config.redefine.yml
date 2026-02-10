@@ -221,7 +221,7 @@ navbar:
       submenus:
         Me: /about
         Github: https://github.com/Fin0saur
-        Friends: /friends
+        # Friends: /friends
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
