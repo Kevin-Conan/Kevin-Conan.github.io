@@ -101,3 +101,10 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+mathjax:
+  tags: none
+  single_dollars: true # 允许单美元符号 $...$ 渲染行内公式
+  cjk_width: 0.9
+  normal_width: 0.6
+  append_css: true
+  every_page: false # 建议设为 false，只在需要的页面加载，提高网站加载速度
